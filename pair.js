@@ -57,9 +57,12 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐕𝟒.𝟎.𝟎 𝐋𝐀𝐓𝐄𝐒𝐓 PAIR CODE CONNECTED*
+*PAIRING CODE CONNECTED*
 
-> You have completed the first step of Deploying *BELTAH-MD*, Copy the above message and deploy your bot.Meanwhile you must follow the 4 steps. 
+> You have completed the first step of Deploying *BELTAH-MD*
+> Copy the above session Id and deploy your bot.
+> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT 
+> Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
@@ -71,17 +74,14 @@ router.get('/', async (req, res) => {
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Beltahmd/beltah-md_*
+𓄂 *_https://github.com/Beltahtech/Beltah-MD_*
 
-> 4th STEP 
-*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@Beltahtech2024_*
-
-*DEVELOPER: BELTAH TECH*
+>4th STEP
+*DEVELOPER : BELTAH TECH*
 𓄂 *_https://wa.me/254114141192_*
+> Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
-> MADE ON EARTH BY BELTAH🇰🇪
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇`
+> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
