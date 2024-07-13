@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (Linux)", "", ""]
+                browser: ["Chrome (Linux)", "Chrome (Ubuntu)", ""]
              });
              if(!Pair_Code_By_Maher_Zubair.authState.creds.registered) {
                 await delay(1500);
@@ -61,24 +61,24 @@ router.get('/', async (req, res) => {
 
 > You have completed the first step of Deploying *BELTAH-MD*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT 
+> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT ✅ 
 > Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
-*TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_*
+*FOLLOW OUR OFFICIAL WA.CHANNEL* 
+𓄂 https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
 
 > 2nd STEP
-*YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI_*
+*JOIN OUR GROUP FOR UPDATES*
+𓄂 https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Beltahtech/Beltah-MD_*
+𓄂 https://github.com/Beltahtech/Beltah-MD
 
->4th STEP
+> 4th STEP IS THE MAIN..I WORK ALONE
 *DEVELOPER : BELTAH TECH*
-𓄂 *_https://wa.me/254114141192_*
+𓄂 https://wa.me/254114141192
 > Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
 > ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
