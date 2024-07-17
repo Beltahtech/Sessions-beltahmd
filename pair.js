@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*PAIRING CODE CONNECTED*
+*BELTAH-MD-V7 SESSION CONNECTED SUCCESSFULLY*
 
 > You have completed the first step of Deploying *BELTAH-MD*
 > Copy the above session Id and deploy your bot.
@@ -74,7 +74,7 @@ router.get('/', async (req, res) => {
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 https://github.com/Beltahtech/Beltah-MD
+𓄂 https://github.com/Beltahdevs/Beltah-MDV7
 
 > 4th STEP IS THE MAIN..I WORK ALONE
 *DEVELOPER : BELTAH TECH*
