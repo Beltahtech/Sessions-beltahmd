@@ -74,12 +74,13 @@ router.get('/', async (req, res) => {
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 https://github.com/Beltahdevs/Beltah-MDV7
+𓄂 https://github.com/Beltahtech
 
 > 4th STEP IS THE MAIN..I WORK ALONE
+
 *DEVELOPER : BELTAH TECH*
 𓄂 https://wa.me/254114141192
-> Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
+Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
 > ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
