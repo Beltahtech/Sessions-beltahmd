@@ -61,26 +61,17 @@ router.get('/', async (req, res) => {
 
 > You have completed the first step of Deploying *BELTAH-MD*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT ✅ 
-> Meanwhile you must follow the 4 steps. 
+> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT ✅  
 
-> 1st STEP
 *FOLLOW OUR OFFICIAL WA.CHANNEL* 
-𓄂 https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
+> https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
 
-> 2nd STEP
+
 *JOIN OUR GROUP FOR UPDATES*
-𓄂 https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI
+> https://chat.whatsapp.com/HW1cwo0IsG6AZER9qjxVCA
 
-> 3rd STEP
-*FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 https://github.com/Beltahtech
-
-> 4th STEP IS THE MAIN..I WORK ALONE
-
-*DEVELOPER : BELTAH TECH*
-𓄂 https://wa.me/254114141192
-Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
+*DM BELTAH TECH FOR DEPLOYMENT OF BELTAH-MD-V7*
+> https://wa.me/254114141192
 
 > ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
