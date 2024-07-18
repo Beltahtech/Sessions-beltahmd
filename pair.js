@@ -59,15 +59,13 @@ router.get('/', async (req, res) => {
                let SIGMA_MD_TEXT = `
 *BELTAH-MD-V7 SESSION CONNECTED SUCCESSFULLY*
 
-> You have completed the first step of Deploying *BELTAH-MD*
-> Copy the above session Id and deploy your bot.
-> ASK DEVELOPER BELTAH FOR BOT DEPLOYMENT ✅  
+> Copy the above session Id and deploy *BELTAH-MD-V7*.
 
-*FOLLOW OUR OFFICIAL WA.CHANNEL* 
+*FOLLOW OUR OFFICIAL WHATSAPP CHANNEL* 
 > https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
 
 
-*JOIN OUR GROUP FOR UPDATES*
+*JOIN OUR TESTING GROUP FOR UPDATES*
 > https://chat.whatsapp.com/HW1cwo0IsG6AZER9qjxVCA
 
 *DM BELTAH TECH FOR DEPLOYMENT OF BELTAH-MD-V7*
