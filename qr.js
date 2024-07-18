@@ -59,31 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐕𝟒.𝟎.𝟎 𝐋𝐀𝐓𝐄𝐒𝐓 QR CODE CONNECTED*
+*BELTAH-MD-V7 SESSION CONNECTED SUCCESSFULLY*
 
-> You have completed the first step of Deploying *BELTAH-MD*, Copy the above message and deploy your bot.Meanwhile you must follow the 4 steps. 
+> Copy the above session Id and deploy *BELTAH-MD-V7*.
 
-> 1st STEP
-*TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_*
+*FOLLOW OUR OFFICIAL WA.CHANNEL* 
+> https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
 
-> 2nd STEP
-*YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI_*
 
-> 3rd STEP
-*FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Beltahmd/beltah-md_*
+*JOIN OUR GROUP FOR UPDATES*
+> https://chat.whatsapp.com/HW1cwo0IsG6AZER9qjxVCA
 
-> 4th STEP 
-*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@Beltahtech2024_*
+*DM BELTAH TECH FOR DEPLOYMENT OF BELTAH-MD-V7*
+> https://wa.me/254114141192
 
-*DEVELOPER: BELTAH TECH*
-𓄂 *_https://wa.me/254114141192_*
-
-> MADE ON EARTH BY BELTAH🇰🇪
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 `
+> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
