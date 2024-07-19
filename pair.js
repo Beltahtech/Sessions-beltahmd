@@ -57,9 +57,9 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*BELTAH-MD-V7 SESSION CONNECTED SUCCESSFULLY*
+*SCENE-MD SESSION CONNECTED SUCCESSFULLY*
 
-> Copy the above session Id and deploy *BELTAH-MD-V7*.
+> Copy the above session Id and deploy *SCENE-MD*.
 
 *FOLLOW OUR OFFICIAL WHATSAPP CHANNEL* 
 > https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 *JOIN OUR TESTING GROUP FOR UPDATES*
 > https://chat.whatsapp.com/HW1cwo0IsG6AZER9qjxVCA
 
-*DM BELTAH TECH FOR DEPLOYMENT OF BELTAH-MD-V7*
+*DM BELTAH TECH FOR DEPLOYMENT OF SCENE-MD*
 > https://wa.me/254114141192
 
 > ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 ✅✅`
